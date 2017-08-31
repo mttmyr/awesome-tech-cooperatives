@@ -25,6 +25,7 @@ Informative articles about cooperative tech:
 * [savvy.coop](http://savvy.coop)
 
 #### Projects / Open Source
+* [GeriLife wellbeing](https://github.com/GeriLife/wellbeing)
 * [Loomio](https://www.loomio.org)
 
 #### Finance
