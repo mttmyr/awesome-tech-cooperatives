@@ -43,6 +43,7 @@ Informative articles about cooperative tech:
 * [Plausible](https://www.plausible.coop/)
 * [Quilted](http://quilted.coop)
 * [TESA](http://www.toolboxfored.org/)
+* [Aptivate](http://aptivate.org/)
 
 ---
 
