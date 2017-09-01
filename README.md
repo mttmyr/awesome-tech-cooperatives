@@ -36,6 +36,7 @@ Informative articles about cooperative tech:
 #### Agencies / Consulting
 * [bits.coop](https://bits.coop)
 * [colab.coop](https://colab.coop)
+* [Autonomic](https://autonomic.zone/)
 * [Enspiral](https://enspiral.com/)
 * [FeelTrain](https://feeltrain.com)
 * [Igalia](https://www.igalia.com)
