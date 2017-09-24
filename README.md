@@ -9,40 +9,42 @@ Informative articles about cooperative tech:
 ---
 
 #### E-Commerce
-* [Fairmondo](https://fairmondo.uk/)
-* [Stocksy](https://www.stocksy.com/)
+* [Fairmondo](https://fairmondo.uk)
+* [Stocksy](https://www.stocksy.com)
 
 #### Ride Sharing
-* [Commuterz](https://www.commuterz.io/)
-* [LaZooz](http://lazooz.org/)
-* [Modo](http://modo.coop/)
+* [Commuterz](https://www.commuterz.io)
+* [LaZooz](http://lazooz.org)
+* [Modo](http://modo.coop)
 
 #### Media / Social
 * [social.coop](https://social.coop)
-* [Resonate](https://resonate.is/)
+* [Resonate](https://resonate.is)
 
 #### Healthcare
+* [healthbank.coop](https://www.healthbank.coop)
 * [savvy.coop](http://savvy.coop)
 
 #### Projects / Open Source
 * [Loomio](https://www.loomio.org)
 
 #### Finance
-* [ArtsPool](http://artspool.co/)
+* [ArtsPool](http://artspool.co)
 
 #### Sever Hosting
-* [Gaia Host Collective](http://www.gaiahost.coop/)
+* [Gaia Host Collective](http://www.gaiahost.coop)
 
 #### Agencies / Consulting
 * [bits.coop](https://bits.coop)
 * [colab.coop](https://colab.coop)
-* [Enspiral](https://enspiral.com/)
+* [Enspiral](https://enspiral.com)
 * [FeelTrain](https://feeltrain.com)
 * [Igalia](https://www.igalia.com)
 * [Outlandish](https://www.outlandish.com)
-* [Plausible](https://www.plausible.coop/)
+* [Plausible](https://www.plausible.coop)
 * [Quilted](http://quilted.coop)
-* [TESA](http://www.toolboxfored.org/)
+* [Sassafras](http://sassafras.coop)
+* [TESA](http://www.toolboxfored.org)
 * [Aptivate](http://aptivate.org/)
 
 ---
@@ -51,4 +53,4 @@ Informative articles about cooperative tech:
 Updates and suggestions will be welcomed with open arms :green_heart:
 
 ### License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
