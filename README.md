@@ -45,6 +45,7 @@ Informative articles about cooperative tech:
 * [Quilted](http://quilted.coop)
 * [Sassafras](http://sassafras.coop)
 * [TESA](http://www.toolboxfored.org)
+* [Aptivate](http://aptivate.org/)
 
 ---
 
