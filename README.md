@@ -46,6 +46,7 @@ Informative articles about cooperative tech:
 * [Sassafras](http://sassafras.coop)
 * [TESA](http://www.toolboxfored.org)
 * [Aptivate](http://aptivate.org/)
+* [Autonomic](https://autonomic.zone/)
 
 ---
 
