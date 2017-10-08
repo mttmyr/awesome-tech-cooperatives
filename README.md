@@ -35,7 +35,7 @@ Informative articles about cooperative tech:
 * [Gaia Host Collective](http://www.gaiahost.coop)
 
 #### Agencies / Consulting
-* [agaric.coop](http://agaric.coop/)
+* [Agaric](http://agaric.coop/)
 * [bits.coop](https://bits.coop)
 * [colab.coop](https://colab.coop)
 * [Enspiral](https://enspiral.com)
