@@ -47,6 +47,11 @@ Informative articles about cooperative tech:
 * [TESA](http://www.toolboxfored.org)
 * [Aptivate](http://aptivate.org/)
 * [Autonomic](https://autonomic.zone/)
+* [Developer Society](https://www.dev.ngo/)
+
+#### Other Lists
+* [tech-coops](https://github.com/hng/tech-coops)
+* [IOO Directory](https://ioo.coop/directory/)
 
 ---
 
