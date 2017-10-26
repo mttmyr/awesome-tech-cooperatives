@@ -48,6 +48,7 @@ Informative articles about cooperative tech:
 * [Aptivate](http://aptivate.org/)
 * [Autonomic](https://autonomic.zone/)
 * [Developer Society](https://www.dev.ngo/)
+* [Fairydust Agency](http://fairydust.agency)
 
 #### Other Lists
 * [tech-coops](https://github.com/hng/tech-coops)
