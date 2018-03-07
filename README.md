@@ -37,6 +37,7 @@ Informative articles about cooperative tech:
 #### Agencies / Consulting
 * [Agaric](http://agaric.coop/)
 * [bits.coop](https://bits.coop)
+* [caravan.coop](https://caravan.coop)
 * [colab.coop](https://colab.coop)
 * [Enspiral](https://enspiral.com)
 * [FeelTrain](https://feeltrain.com)
