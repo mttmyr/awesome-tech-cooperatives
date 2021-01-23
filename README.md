@@ -32,16 +32,20 @@ Informative articles about cooperative tech:
 * [ArtsPool](http://artspool.co)
 
 #### Sever Hosting
+* [datenkollektiv](https://www.datenkollektiv.net/)
 * [Gaia Host Collective](http://www.gaiahost.coop)
 
 #### Agencies / Consulting
 * [Agaric](http://agaric.coop/)
 * [bits.coop](https://bits.coop)
+* [blinkenbox.coop](https://blinkenbox.coop)
 * [caravan.coop](https://caravan.coop)
+* [ctrl.alt.coop](https://ctrl.alt.coop)
 * [colab.coop](https://colab.coop)
 * [Enspiral](https://enspiral.com)
 * [FeelTrain](https://feeltrain.com)
 * [Igalia](https://www.igalia.com)
+* [IT Kollektiv](https://it-kollektiv.com/)
 * [Outlandish](https://www.outlandish.com)
 * [Plausible](https://www.plausible.coop)
 * [Quilted](http://quilted.coop)
@@ -51,6 +55,7 @@ Informative articles about cooperative tech:
 * [Autonomic](https://autonomic.zone/)
 * [Developer Society](https://www.dev.ngo/)
 * [Fairydust Agency](http://fairydust.agency)
+
 
 #### Other Lists
 * [tech-coops](https://github.com/hng/tech-coops)
