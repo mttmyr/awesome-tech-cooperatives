@@ -18,8 +18,8 @@ Informative articles about cooperative tech:
 * [Modo](http://modo.coop)
 
 #### Media / Social
-* [social.coop](https://social.coop)
 * [Resonate](https://resonate.is)
+* [social.coop](https://social.coop)
 
 #### Healthcare
 * [healthbank.coop](https://www.healthbank.coop)
@@ -32,25 +32,30 @@ Informative articles about cooperative tech:
 * [ArtsPool](http://artspool.co)
 
 #### Sever Hosting
+* [datenkollektiv](https://www.datenkollektiv.net/)
 * [Gaia Host Collective](http://www.gaiahost.coop)
 
 #### Agencies / Consulting
 * [Agaric](http://agaric.coop/)
+* [Aptivate](http://aptivate.org/)
+* [Autonomic](https://autonomic.zone/)
 * [bits.coop](https://bits.coop)
+* [blinkenbox.coop](https://blinkenbox.coop)
 * [caravan.coop](https://caravan.coop)
+* [ctrl.alt.coop](https://ctrl.alt.coop)
 * [colab.coop](https://colab.coop)
+* [Developer Society](https://www.dev.ngo/)
 * [Enspiral](https://enspiral.com)
+* [Fairydust Agency](http://fairydust.agency)
 * [FeelTrain](https://feeltrain.com)
 * [Igalia](https://www.igalia.com)
+* [IT Kollektiv](https://it-kollektiv.com/)
 * [Outlandish](https://www.outlandish.com)
 * [Plausible](https://www.plausible.coop)
 * [Quilted](http://quilted.coop)
 * [Sassafras](http://sassafras.coop)
 * [TESA](http://www.toolboxfored.org)
-* [Aptivate](http://aptivate.org/)
-* [Autonomic](https://autonomic.zone/)
-* [Developer Society](https://www.dev.ngo/)
-* [Fairydust Agency](http://fairydust.agency)
+
 
 #### Other Lists
 * [tech-coops](https://github.com/hng/tech-coops)
