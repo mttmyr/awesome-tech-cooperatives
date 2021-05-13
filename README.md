@@ -30,9 +30,11 @@ Informative articles about cooperative tech:
 
 #### Finance
 * [ArtsPool](http://artspool.co)
+* [Comradery](https://www.comradery.co/)
 
 #### Sever Hosting
 * [Gaia Host Collective](http://www.gaiahost.coop)
+* [Hostsharing](https://www.hostsharing.net/)
 
 #### Agencies / Consulting
 * [Agaric](http://agaric.coop/)
