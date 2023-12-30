@@ -51,6 +51,7 @@ Informative articles about cooperative tech:
 * [Autonomic](https://autonomic.zone/)
 * [Developer Society](https://www.dev.ngo/)
 * [Fairydust Agency](http://fairydust.agency)
+* [WTF eG](https://wtf-eg.de/en/)
 
 #### Other Lists
 * [tech-coops](https://github.com/hng/tech-coops)
