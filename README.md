@@ -33,6 +33,7 @@ Informative articles about cooperative tech:
 
 #### Sever Hosting
 * [Gaia Host Collective](http://www.gaiahost.coop)
+* [Hostsharing](https://www.hostsharing.net/)
 
 #### Agencies / Consulting
 * [Agaric](http://agaric.coop/)
