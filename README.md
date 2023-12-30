@@ -9,7 +9,7 @@ Informative articles about cooperative tech:
 ---
 
 #### E-Commerce
-* [Fairmondo](https://fairmondo.uk)
+* [Fairmondo](https://www.fairmondo.de/)
 * [Stocksy](https://www.stocksy.com)
 
 #### Ride Sharing
